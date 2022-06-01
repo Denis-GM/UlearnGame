@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EndGameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LvlEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuBarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
